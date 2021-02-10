@@ -1,6 +1,6 @@
 # MMLib-Java
 
-### Version 0.1.0R/J (Last release 10-02-21)
+### Version 0.1.1R/J (Last release 10-02-21)
 
 
 ## Created by Thomas Seabrook under the MIT Licence
